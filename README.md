@@ -9,7 +9,11 @@ Dizin içerisindeki 2_180202024_180202025.pdf dosyasından detaylı rapor ve kul
 Program görünümü aşağıdaki gibidir.
 
 ![Giriş Ekranı](http://burakcantemizel.com/resimler/gifler/giris.gif)
+
+
 ![Kayıt Ekranının Bir Bölümü](http://burakcantemizel.com/resimler/gifler/kayit.gif)
+
+
 ![Ana Ekranın Bir Bölümü](http://burakcantemizel.com/resimler/gifler/anaEkran.gif)
 
 
